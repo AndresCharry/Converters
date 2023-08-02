@@ -1,11 +1,11 @@
-# Calculator converter.
+# Conversion calculator.
 <p align="center">
   <a href="#License"><img src="https://img.shields.io/badge/license-MIT-green" /></a>
   <a ><img src="https://img.shields.io/badge/release_date-august-green" /></a>
 </p>
 
 ## Introduction.
-Converter calculator allows for currency and temperature conversions.
+Conversion calculator allows for currency and temperature conversions.
 
 ## 🔨:Functionalities.
 - `currency converter`: can do currency conversions.
@@ -26,6 +26,6 @@ copy the src folder and place it in a java project and run the file called main.
 | :---: |
 
 ## License
-Calcusator Converter is [MIT licensed](./LICENSE).
+Conversion calculator is [MIT licensed](./LICENSE).
 
-The Calcusator Converter documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
+The conversion calculator documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
