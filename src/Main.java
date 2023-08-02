@@ -37,9 +37,9 @@ public class Main {
                                 // System.out.println("1");
                                 view.getConverterView(
                                                 "select the money you want to convert your money to",
-                                                "Coin Converter", coins,
+                                                "currency Converter", coins,
                                                 "Enter the amount of money you wish to convert",
-                                                "Coin Converter", true);
+                                                "currency Converter", true);
                         } else if (isTemperatureConverter) {
                                 // System.out.println("2");
                                 view.getConverterView(
